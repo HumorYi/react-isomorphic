@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+}
+
+.li {
+  text-decoration: underline;
+  margin-right: 10px;
+}
+
